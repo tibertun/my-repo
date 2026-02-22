@@ -1,1 +1,3 @@
-Computer programming is the process of designing, writing, testing, and maintaining sets of instructions—code—that enable computers to perform specific tasks, solve problems, and run software applications.
+Computer programming is the process of designing, writing, testing, and maintaining
+sets of instructions—code—that enable computers to perform specific tasks, solve problems,
+and run software applications.
