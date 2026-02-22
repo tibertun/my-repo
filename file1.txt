@@ -1,3 +1,4 @@
 Computer programming is the process of designing, writing, testing, and maintaining
 sets of instructions—code—that enable computers to perform specific tasks.
 Зміна через GitHub у main
+Новий текст
