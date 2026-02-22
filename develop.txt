@@ -1,0 +1,2 @@
+It acts as a bridge between human logic and machine execution, utilizing various languages to create,
+debug, and maintain systems.
